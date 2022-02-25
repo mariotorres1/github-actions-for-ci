@@ -1,1 +1,2 @@
 name: Mario's approval workflow
+on: pull_request_review
